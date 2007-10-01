@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MiniHttpdConsole">
+</Property><Property Name="Solution File" Value="C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\MiniHttpdConsole.sln">
+</Property><Property Name="Date" Value="den 5 mars 2007">
+</Property><Property Name="Time" Value="08:41:51">
+</Property></Properties><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\MiniHttpd.csproj" Description="Project file successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\MiniHttpd.csproj">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\MiniHttpd.csproj.user" Description="Project user file successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\MiniHttpd.csproj.user">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\Aspx\AspxAppDirectory.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\Aspx\AspxAppDirectory.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\Aspx\AspxAppHost.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\Aspx\AspxAppHost.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\Aspx\AspxWebServer.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\Aspx\AspxWebServer.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\Aspx\HttpHandler.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\Aspx\HttpHandler.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\Aspx\WorkerRequest.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\Aspx\WorkerRequest.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\AssemblyInfo.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\BasicAuthenticator.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\BasicAuthenticator.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\ByteRange.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\ByteRange.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\ChunkedStream.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\ChunkedStream.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\ClientEventArgs.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\ClientEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\ContentTypes.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\ContentTypes.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\DirectoryException.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\DirectoryException.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\DriveDirectory.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\DriveDirectory.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\DriveFile.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\DriveFile.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\HttpWebServer.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\HttpWebServer.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\IDirectory.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\IDirectory.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\IFile.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\IFile.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\IndexPage.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\IndexPage.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\IndexPageEx.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\IndexPageEx.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\IPhysicalResource.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\IPhysicalResource.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\IResource.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\IResource.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\MovedException.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\MovedException.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\FileSystem\VirtualDirectory.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\FileSystem\VirtualDirectory.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\HttpClient.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\HttpClient.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\HttpRequest.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\HttpRequest.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\HttpRequestException.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\HttpRequestException.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\HttpResponse.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\HttpResponse.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\HttpServer.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\HttpServer.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\IAuthenticator.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\IAuthenticator.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\ImmediateResponseStream.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\ImmediateResponseStream.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\LdapAuthenticator.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\LdapAuthenticator.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\ReadableDataLength.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\ReadableDataLength.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\StatusCodes.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\StatusCodes.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\UriQuery.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\UriQuery.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\UrlEncoding.cs" Description="File successfully backed up as C:\projects\c#\Others\MiniHttpd\MiniHttpdConsole\Backup\UrlEncoding.cs">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\MiniHttpd.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MiniHttpd" Source="..\MiniHttpd\MiniHttpd.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MiniHttpd" Source="..\MiniHttpd\MiniHttpd.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
