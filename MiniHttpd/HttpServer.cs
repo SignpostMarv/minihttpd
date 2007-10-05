@@ -552,8 +552,13 @@ namespace MiniHttpd
         private void client_Disconnected(object sender, EventArgs e)
         {
             HttpClient client = sender as HttpClient;
-            if (_logConnections && client != null)
+            if (client == null)
+                return; //todo: reinux, this is what you meant, right? 
+            // No need to call ClientDisconnect with an unknown client. 
+
+            if (_logConnections)
                 Log.WriteLine("Disconnected: " + client.RemoteAddress);
+            client.Disconnected -= client_Disconnected;
             if (ClientDisconnected != null)
                 ClientDisconnected(this, new ClientEventArgs(client));
         }

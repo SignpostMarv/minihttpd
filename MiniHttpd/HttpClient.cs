@@ -285,6 +285,8 @@ namespace MiniHttpd
                     GC.SuppressFinalize(this);
                 }
             }
+            server.Stopping -= server_Stopping;
+            server.OneHertzTick -= server_OneHertzTick;
         }
 
         private void server_Stopping(object sender, EventArgs e)

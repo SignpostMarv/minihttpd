@@ -366,6 +366,7 @@ namespace MiniHttpd.FileSystem
         /// </summary>
         public override void Dispose()
         {
+            ValidRequestReceived -= server_ValidRequestReceived;
             _root.Dispose();
             base.Dispose();
         }
